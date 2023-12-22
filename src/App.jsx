@@ -110,7 +110,7 @@ function App() {
             >
               Hozircha ma'lumotlar yo'q
             </li>
-          )};
+          )}
         </ul>
       </Card>
     </>
